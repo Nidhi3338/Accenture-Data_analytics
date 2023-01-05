@@ -30,7 +30,8 @@ technology landscape
 - Stress testing of their technology to identify weak spots
 - Communication with previous IPO companies within our client base for reference stories -
 Analysis of sample data sets with visualizations
-- Full documentation of the process that we can guide them through for IPO
+- Full documentation of the process that we can guide them through for IPO\
+by completing the task understood the cilents and team work 
 ## TASK -2
 Clean the data by:
 
@@ -53,5 +54,5 @@ The end result should be one spreadsheet which contains:
 
 A cleaned dataset
 The top 5 categories
-
+ By completing the task, you've gained the following skills: data modelling , data cleaning 
 ## Task 3
