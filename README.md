@@ -67,4 +67,6 @@ As a reminder from the earlier task - this includes: Andrew Fleming (Chief Techn
 Process - How did you complete your analysis?
 and creating bar charts and pie charts for business insights .
 
-[bar](Screenshot 2023-01-07 at 12.28.09 PM.png)
+<img width="761" alt="Screenshot 2023-01-07 at 12 28 17 PM" src="https://user-images.githubusercontent.com/33623897/211163165-a49b7c1f-9bb1-4acd-b57c-0c2a1b3287ae.png">
+
+<img width="791" alt="Screenshot 2023-01-07 at 12 28 09 PM" src="https://user-images.githubusercontent.com/33623897/211163178-d46c97ad-5967-404b-8941-069ca1c981f8.png">
