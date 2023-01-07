@@ -65,3 +65,4 @@ Problem - What is the problem that you answer in this presentation?
 The Analytics team - Who is on your team?
 As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
 Process - How did you complete your analysis?
+and creating bar charts and pie charts for business insights .
