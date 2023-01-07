@@ -57,3 +57,11 @@ The top 5 categories
  By completing the task, you've gained the following skills: data modelling , data cleaning 
 ## Task 3
 - presentaion for the cilent to be made 
+For each slide, think about: 
+
+Agenda - What will your presentation cover?
+Project Recap - What are the key points from the brief?
+Problem - What is the problem that you answer in this presentation?
+The Analytics team - Who is on your team?
+As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
+Process - How did you complete your analysis?
