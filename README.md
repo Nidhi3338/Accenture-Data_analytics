@@ -56,3 +56,4 @@ A cleaned dataset
 The top 5 categories
  By completing the task, you've gained the following skills: data modelling , data cleaning 
 ## Task 3
+- presentaion for the cilent to be made 
