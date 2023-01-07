@@ -66,3 +66,5 @@ The Analytics team - Who is on your team?
 As a reminder from the earlier task - this includes: Andrew Fleming (Chief Technical Architect), Marcus Rompton (Senior Principle), and yourself!
 Process - How did you complete your analysis?
 and creating bar charts and pie charts for business insights .
+
+[bar](Screenshot 2023-01-07 at 12.28.09 PM.png)
